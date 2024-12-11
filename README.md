@@ -1,5 +1,7 @@
 # Extraction-of-text-from-images
 
+
+
 import cv2
 import os,argparse
 import pytesseract
